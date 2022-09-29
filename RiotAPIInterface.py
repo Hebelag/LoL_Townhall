@@ -6,7 +6,7 @@ class RequestError(Exception):
     pass
 
 class RiotAPIInterface:  
-    API_KEY = "RGAPI-0cd3b33c-ce51-467e-9574-353a97bd6844"
+    API_KEY = "nothing to see here"
     def __init__(self) -> None:
         pass
 
